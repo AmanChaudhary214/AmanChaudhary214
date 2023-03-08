@@ -4,15 +4,15 @@
 <img align="right" alt="coding" width="375" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 # 💫 About Me:
-🌱 I’m currently enlightening myself with Java & Springboot
+🌱 I’m currently enlightening myself with Java & Springboot.
 <br>
 💬 Ask me about HTML, CSS & JavaScript.
 <br>
-👨‍💻 All my projects are available in the repository section.
+👨‍💻 All my projects are available in the [repository section](https://github.com/AmanChaudhary214?tab=repositories).
 <br>
 👨🏻‍🎓 Visit my [Portfolio]().
 <br>
-🔭 Know more about me and my experiences [My Resume](https://www.canva.com/design/DAFcICvQIiw/TdX-ddIY26vXPNi_8QjI8g/edit?utm_content=DAFcICvQIiw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+🔭 Know more about me and my experiences [My Resume](https://www.canva.com/design/DAFcICvQIiw/TdX-ddIY26vXPNi_8QjI8g/edit?utm_content=DAFcICvQIiw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
 <br>
 🤝 I’m also reachable at aman.chaudhary214@gmail.com
 <br>
