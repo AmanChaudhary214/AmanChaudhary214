@@ -1,42 +1,33 @@
-<img  alt="header" src="https://yolabs.in/wp-content/uploads/2020/09/kids-coding-art.jpg">
-
+<img alt="header" src="https://yolabs.in/wp-content/uploads/2020/09/kids-coding-art.jpg">
 <h1 align="center">Hi 👋, I'm Aman Chaudhary</h1>
-<h3 align="center">A passionate Full-Stack Developer from India</h3>
+<h3 align="center">An aspiring Full-Stack Web Developer <img width="3%" src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966"> from India</h3>
 <br>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amanchaudhary214&label=Profile%20views&color=0e75b6&style=flat" alt="amanchaudhary214" /> </p>
+# 💫 About Me:
+🌱 I’m currently enlightening myself with Java & Springboot<br>💬 Ask me about HTML, CSS & JavaScript.<br>👨‍💻 All my projects are available in the repository section.<br>👨🏻‍🎓 Visit my Portfolio.<br>🔭 Know more about me and my experiences My Resume<br>🤝 I’m also reachable at aman.chaudhary214@gmail.com<br>⚡ Fun fact, I'm a photography enthusiast too.
 
-<p align="left"> <a href="https://twitter.com/theaman214" target="blank"><img src="https://img.shields.io/twitter/follow/theaman214?logo=twitter&style=for-the-badge" alt="theaman214" /></a> </p>
 
-- 🌱 I’m currently enlightening myself with **Java & SpringBoot**
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amanchaudhary214) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/theaman214) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tilted_._tripod) 
 
-- 💬 Ask me about **HTML, CSS & JavaScript**
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AmanChaudhary214&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AmanChaudhary214&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanChaudhary214&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 📫 You can connect with me at **aman.chaudhary214@gmail.com**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AmanChaudhary214&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
 
-- ⚡ Fun fact, I am a photography enthusiast too.
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=theaman214)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-- 📄 Know about my experiences [My Resume](https://www.canva.com/design/DAFcICvQIiw/TdX-ddIY26vXPNi_8QjI8g/edit?utm_content=DAFcICvQIiw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+### ✍️ Quote for the Day
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<br>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/theaman214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="theaman214" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/amanchaudhary214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amanchaudhary214" height="30" width="40" /></a>
-<a href="https://instagram.com/tilted_._tripod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tilted_._tripod" height="30" width="40" /></a>
-</p>
-
-<br>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
-
-<br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanchaudhary214&show_icons=true&locale=en&layout=compact" alt="amanchaudhary214" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amanchaudhary214&show_icons=true&locale=en" alt="amanchaudhary214" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanchaudhary214&" alt="amanchaudhary214" /></p>
+---
+[![](https://visitcount.itsvg.in/api?id=AmanChaudhary214&icon=0&color=0)](https://visitcount.itsvg.in)
