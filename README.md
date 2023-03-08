@@ -1,11 +1,22 @@
 <img alt="header" src="https://yolabs.in/wp-content/uploads/2020/09/kids-coding-art.jpg">
 <h1 align="center">Hi 👋, I'm Aman Chaudhary</h1>
 <h3 align="center">An aspiring Full-Stack Web Developer <img width="3%" src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966"> from India</h3>
-<br>
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<img align="right" alt="coding" width="375" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 # 💫 About Me:
-🌱 I’m currently enlightening myself with Java & Springboot<br>💬 Ask me about HTML, CSS & JavaScript.<br>👨‍💻 All my projects are available in the repository section.<br>👨🏻‍🎓 Visit my Portfolio.<br>🔭 Know more about me and my experiences My Resume<br>🤝 I’m also reachable at aman.chaudhary214@gmail.com<br>⚡ Fun fact, I'm a photography enthusiast too.
+🌱 I’m currently enlightening myself with Java & Springboot
+<br>
+💬 Ask me about HTML, CSS & JavaScript.
+<br>
+👨‍💻 All my projects are available in the repository section.
+<br>
+👨🏻‍🎓 Visit my [Portfolio]().
+<br>
+🔭 Know more about me and my experiences [My Resume](https://www.canva.com/design/DAFcICvQIiw/TdX-ddIY26vXPNi_8QjI8g/edit?utm_content=DAFcICvQIiw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+<br>
+🤝 I’m also reachable at aman.chaudhary214@gmail.com
+<br>
+⚡ Fun fact, I'm a photography enthusiast too.
 
 
 ## 🌐 Socials:
