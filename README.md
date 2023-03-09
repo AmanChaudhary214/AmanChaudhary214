@@ -10,7 +10,7 @@
 <br>
 👨‍💻 All my projects are available in the [repository section](https://github.com/AmanChaudhary214?tab=repositories).
 <br>
-👨🏻‍🎓 Visit my [Portfolio](https://joyful-gumption-501ca1.netlify.app/).
+👨🏻‍🎓 Visit my [Portfolio](https://resplendent-concha-5eeb62.netlify.app/).
 <br>
 🔭 Know more about me and my experiences [My Resume](https://www.canva.com/design/DAFcICvQIiw/TdX-ddIY26vXPNi_8QjI8g/edit?utm_content=DAFcICvQIiw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
 <br>
