@@ -12,7 +12,7 @@
 <br>
 👨🏻‍🎓 Visit my [Portfolio](https://amanchaudhary214.github.io/).
 <br>
-🔭 Know more about me and my experiences [My Resume](https://www.canva.com/design/DAFcICvQIiw/TdX-ddIY26vXPNi_8QjI8g/edit?utm_content=DAFcICvQIiw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
+🔭 Know more about me and my experiences [My Resume](https://www.canva.com/design/DAFcICvQIiw/TdX-ddIY26vXPNi_8QjI8g/view?utm_content=DAFcICvQIiw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
 <br>
 🤝 I’m also reachable at aman.chaudhary214@gmail.com
 <br>
