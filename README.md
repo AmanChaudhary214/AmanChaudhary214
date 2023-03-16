@@ -38,7 +38,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AmanChaudhary214&theme=gotham&show_icons=true&count_private=true&hide_border=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AmanChaudhary214&theme=gotham&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanChaudhary214&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanChaudhary214&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AmanChaudhary214&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
