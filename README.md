@@ -1,5 +1,7 @@
 <img alt="header" src="https://github.com/AmanChaudhary214/AmanChaudhary214/blob/main/quote.png">
 
+<br>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+ 👋 +I'm+Aman Chaudhary;Aspiring+Full-Stack+Web+Developer++From+India&%20Code&center=true&width=700&height=50&weight=700&size=25&duration=2000&pause=2000">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -10,7 +12,7 @@
 
 <img align="right" alt="coding" width="375" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-# 💫 About Me:
+## 💫 About Me:
 🌱 I’m currently enlightening myself with Java & Springboot.
 <br>
 💬 Ask me about HTML, CSS & JavaScript.
@@ -25,14 +27,16 @@
 <br>
 ⚡ Fun fact, I'm also an avid photographer and quote writer.
 
+<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amanchaudhary214)&nbsp;
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/theaman214)&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tilted_._tripod)&nbsp;
 
+<br>
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;&nbsp; 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;&nbsp;
@@ -41,8 +45,9 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;&nbsp;
 ![Hibernate](https://img.shields.io/badge/hibernate-bcae79?style=for-the-badge&logo=hibernate&logoColor=white)&nbsp;&nbsp;
 
+<br>
 
-# 🛠️ Tools:
+## 🛠️ Tools:
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/STS-58b531?style=for-the-badge&logo=spring&logoColor=white" alt="sts"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>&nbsp;&nbsp;
@@ -54,8 +59,9 @@
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" alt="lightroom" />&nbsp;&nbsp;
 
+<br>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <!-- Total Stats -->
 ![](https://github-readme-stats.vercel.app/api?username=AmanChaudhary214&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
 <!-- Streak Stats -->
@@ -66,10 +72,12 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AmanChaudhary214&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
 
+<br>
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=theaman214)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
+<br>
 
 ### ✍️ Quote for the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
