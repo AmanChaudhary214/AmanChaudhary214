@@ -1,4 +1,4 @@
-<img alt="header" src="">
+<img alt="header" src="https://github.com/AmanChaudhary214/AmanChaudhary214/blob/main/quote.png">
 
 <br>
 
