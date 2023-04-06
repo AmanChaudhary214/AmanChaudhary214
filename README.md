@@ -23,7 +23,7 @@
 <br>
 🤝 I’m also reachable at aman.chaudhary214@gmail.com
 <br>
-⚡ Fun fact, I'm a photography enthusiast too.
+⚡ Fun fact, I'm also an avid photographer and quote writer.
 
 
 ## 🌐 Socials:
