@@ -1,4 +1,4 @@
-<img alt="header" src="https://yolabs.in/wp-content/uploads/2020/09/kids-coding-art.jpg">
+<img alt="header" src="https://github.com/AmanChaudhary214/AmanChaudhary214/blob/main/quote.jpg">
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+ 👋 +I'm+Aman Chaudhary;Aspiring+Full-Stack+Web+Developer++From+India&%20Code&center=true&width=700&height=50&weight=700&size=25&duration=2000&pause=2000">
