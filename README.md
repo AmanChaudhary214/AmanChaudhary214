@@ -59,6 +59,8 @@
 
 <br>
 
+<img align="right" width=250px height=300px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"/>
+
 ## 📊 GitHub Stats:
 <!-- Total Stats -->
 ![](https://github-readme-stats.vercel.app/api?username=AmanChaudhary214&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -66,6 +68,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AmanChaudhary214&theme=gotham&hide_border=false)<br/>
 <!-- Top Languages -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanChaudhary214&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AmanChaudhary214&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
