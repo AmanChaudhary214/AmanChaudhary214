@@ -1,4 +1,4 @@
-<img alt="header" src="https://github.com/AmanChaudhary214/AmanChaudhary214/blob/main/quote.png">
+<img alt="header" src="https://github.com/AmanChaudhary214/AmanChaudhary214/blob/main/It's%20the%20mind%20that%20can%20either%20integrate%20one's%20happiness%20to%20infinity%20or%20differentiate%20it%20to%200.%20-Aman.png">
 
 <br>
 
