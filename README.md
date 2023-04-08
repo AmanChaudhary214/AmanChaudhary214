@@ -1,4 +1,4 @@
-<img alt="header" src="https://github.com/AmanChaudhary214/AmanChaudhary214/blob/main/It's%20the%20mind%20that%20can%20either%20integrate%20one's%20happiness%20to%20infinity%20or%20differentiate%20it%20to%200.%20-Aman.png">
+<img alt="header" src="https://github.com/AmanChaudhary214/AmanChaudhary214/blob/main/quote.png">
 
 <br>
 
@@ -59,8 +59,6 @@
 
 <br>
 
-<img align="right" width=250px height=300px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"/>
-
 ## 📊 GitHub Stats:
 <!-- Total Stats -->
 ![](https://github-readme-stats.vercel.app/api?username=AmanChaudhary214&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -69,6 +67,10 @@
 <!-- Top Languages -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanChaudhary214&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<br>
+
+## ⚡ Activity Graph
+<img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=AmanChaudhary214&theme=gotham&hide_border=true"/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AmanChaudhary214&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
