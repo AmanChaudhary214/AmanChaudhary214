@@ -70,7 +70,8 @@
 <br>
 
 ## ⚡ Activity Graph
-<img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=AmanChaudhary214&theme=gotham&hide_border=true"/>
+<!-- <img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=AmanChaudhary214&theme=gotham&hide_border=true"/> -->
+<img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=AmanChaudhary214&theme=gotham&hide_border=true"/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AmanChaudhary214&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
