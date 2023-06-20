@@ -11,9 +11,9 @@
 <img align="right" alt="coding" width="375" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 ## 💫 About Me:
-🌱 I’m currently enlightening myself with Java & Springboot.
+🌱 I’m currently enlightening myself with Spring Security.
 <br>
-💬 Ask me about HTML, CSS & JavaScript.
+💬 Ask me about Java & SpringBoot.
 <br>
 👨‍💻 All my projects are available in the [repository section](https://github.com/AmanChaudhary214?tab=repositories).
 <br>
