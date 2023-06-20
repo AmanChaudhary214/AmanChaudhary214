@@ -17,7 +17,7 @@
 <br>
 👨‍💻 All my projects are available in the [repository section](https://github.com/AmanChaudhary214?tab=repositories).
 <br>
-👨🏻‍🎓 Visit my [Portfolio](https://amanchaudhary214.github.io/).
+👨🏻‍🎓 Have a look at my [Portfolio](https://amanchaudhary214.github.io/).
 <br>
 🔭 Know more about me and my experiences [My Resume](https://drive.google.com/file/d/1NT1qq1mVfUzGzIhus1TQxEwe6mbP6bsY/view?usp=share_link).
 <br>
