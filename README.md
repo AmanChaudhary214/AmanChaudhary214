@@ -19,7 +19,7 @@
 <br>
 👨🏻‍🎓 Have a look at my [Portfolio](https://amanchaudhary214.github.io/).
 <br>
-🔭 Know more about me and my experiences [My Resume](https://drive.google.com/file/d/1NT1qq1mVfUzGzIhus1TQxEwe6mbP6bsY/view?usp=share_link).
+🔭 Know more about me and my experiences [My Resume](https://drive.google.com/file/d/1NT1qq1mVfUzGzIhus1TQxEwe6mbP6bsY/view?usp=drive_link).
 <br>
 🤝 I’m also reachable at aman.chaudhary214@gmail.com
 <br>
@@ -38,7 +38,8 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;&nbsp;
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;&nbsp;
-![SpringBoot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;&nbsp;
+![Spring](https://img.shields.io/badge/spring-%23ED8B00.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;&nbsp;
+![SpringBoot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;&nbsp;
 ![Hibernate](https://img.shields.io/badge/hibernate-bcae79?style=for-the-badge&logo=hibernate&logoColor=white)&nbsp;&nbsp;
 
