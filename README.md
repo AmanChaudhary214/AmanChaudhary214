@@ -29,6 +29,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amanchaudhary214)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-%231DA1F2.svg?logo=Portfolio&logoColor=white)](https://amanchaudhary214.github.io/)&nbsp;
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/theaman214)&nbsp;
 
 <br>
