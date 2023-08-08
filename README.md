@@ -10,7 +10,7 @@
 
 <img align="right" alt="coding" width="375" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-## 💫 About Me:
+## 💫 About Me
 🌱 I’m currently enlightening myself with Spring Security.
 <br>
 💬 Ask me about Java & SpringBoot.
@@ -27,14 +27,14 @@
 
 <br>
 
-## 🌐 Socials:
+## 🌐 Socials <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amanchaudhary214)&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-%231DA1F2.svg?logo=Portfolio&logoColor=white)](https://amanchaudhary214.github.io/)&nbsp;
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/theaman214)&nbsp;
 
 <br>
 
-## 💻 Tech Stack:
+## 💻 Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;&nbsp;
 ![Spring](https://img.shields.io/badge/spring-%23ED8B00.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;&nbsp;
 ![SpringBoot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;&nbsp;
@@ -47,7 +47,7 @@
 
 <br>
 
-## 🛠️ Tools:
+## 🛠️ Tools
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/STS-58b531?style=for-the-badge&logo=spring&logoColor=white" alt="sts"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/MySQL-CommandLine-bcae79?style=for-the-badge&logo=mysql&logoColor=white" alt="codepen" />&nbsp;&nbsp;
@@ -62,7 +62,7 @@
 
 <br>
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 <!-- Total Stats -->
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=AmanChaudhary214&theme=gotham&hide_border=false&include_all_commits=false&count_private=true)<br/>
 <!-- Streak Stats -->
@@ -72,21 +72,22 @@
 
 <br>
 
-## ⚡ Activity Graph
+## ⚡ Activity Graph &nbsp; <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40px" alt="Git"/>
 <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=AmanChaudhary214&theme=gotham&hide_border=true"/>
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies &nbsp; <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px">
 ![](https://github-profile-trophy.vercel.app/?username=AmanChaudhary214&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
 
-## 🔝 Top Contributed Repos
+## 🔝 Top Contributed Repos &nbsp; <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px">
 ![](https://github-contributor-stats.vercel.app/api?username=AmanChaudhary214&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <br>
 
-### ✍️ Quote for the Day
+### ✍️ Quote for the Day &nbsp; <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40px" alt="Git"/>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AmanChaudhary214&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50">
 <p>Thanks for visiting my profile. 🙏<br>Feel free to drop a message for any suggestion or collaboration, and we can get in touch. 🤝</p>
