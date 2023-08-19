@@ -11,9 +11,10 @@
 <img align="right" alt="coding" width="375" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 ## 💫 About Me
-🌱 I’m currently enlightening myself with Spring Security.
+🌱 I’m currently enlightening myself with Python & Prompt Engineering.
 <br>
 💬 Ask me about Java & SpringBoot.
+<br>
 <br>
 👨‍💻 All my projects are available in the [repository section](https://github.com/AmanChaudhary214?tab=repositories).
 <br>
@@ -21,15 +22,16 @@
 <br>
 🔭 Know more about me and my experiences [My Resume](https://drive.google.com/file/d/1NT1qq1mVfUzGzIhus1TQxEwe6mbP6bsY/view?usp=drive_link).
 <br>
+<br>
 🤝 I’m also reachable at aman.chaudhary214@gmail.com
 <br>
-⚡ Fun fact, I'm also an avid photographer and quote writer.
+⚡ Fun fact, Photography and writing quotes are my creative sanctuaries.
 
 <br>
 
 ## 🌐 Socials <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amanchaudhary214)&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-%231DA1F2.svg?logo=Portfolio&logoColor=white)](https://amanchaudhary214.github.io/)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23E34F26.svg?logo=react&logoColor=white)](https://amanchaudhary214.github.io/)&nbsp;
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/theaman214)&nbsp;
 
 <br>
