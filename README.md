@@ -20,7 +20,7 @@
 <br>
 👨🏻‍🎓 Have a look at my [Portfolio](https://amanchaudhary214.github.io/).
 <br>
-🔭 Know more about me and my experiences [My Resume](https://drive.google.com/file/d/1NT1qq1mVfUzGzIhus1TQxEwe6mbP6bsY/view?usp=drive_link).
+🔭 Know more about me and my experiences [My Resume](https://drive.google.com/file/d/1NT1qq1mVfUzGzIhus1TQxEwe6mbP6bsY/view?usp=drive_link{target=_blank}).
 <br>
 <br>
 🤝 I’m also reachable at aman.chaudhary214@gmail.com
