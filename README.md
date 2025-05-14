@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+ 👋 +I'm+Aman Chaudhary;Full-Stack+Web+Developer👨‍💻+From+India.&%20Code&center=true&width=700&height=50&weight=700&size=25&duration=2000&pause=2000">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Shantell+Sans&size=25&letterSpacing=0.5px&pause=1000&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Hello+%7C+Bonjour+%7C+Hola+%7C+Ciao+%7C+%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87;I'm+Aman+Chaudhary;Web+Developer%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+from+India" alt="Typing SVG" /></a>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p> 
 
